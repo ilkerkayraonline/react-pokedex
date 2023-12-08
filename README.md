@@ -1,5 +1,24 @@
 # Getting Started with Create React App
 
+<h2>REACT POKEDEX GAME</h2>
+<p>Herkese merhaba</p><br/>
+<p>Pokedex veritabanını kullanarak REACT ile basit bir oyun projesi gerçekleştirdik.</p>
+<p>Öncelikle Pokemon kartlarımızı oluşturduk, daha sonra sayfayı iki takıma bölüp her yenilemede pokemonları ramdom olarak eşleştirdik</p>
+<p>Oyun puanına göre kazananı ve kaybedeni belirleyebiliyoruz</p>
+<p>Basit, hoş ve en önemlisi öğretici bir çalışma oldu</p>
+
+-----------   -----------   -----------   -----------
+<h2>REACT POKEDEX GAME</h2>
+<p>Hello everyone</p><br/>
+<p>We implemented a simple game project with REACT using the Pokedex database.</p>
+<p>First, we created our Pokemon cards, then divided the page into two teams and randomly matched the Pokemon with each refresh.</p>
+<p>We can determine the winner and loser based on the game score.</p>
+<p>It was a simple, enjoyable, and most importantly, instructive project.</p>
+
+![](pokedex-game.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
